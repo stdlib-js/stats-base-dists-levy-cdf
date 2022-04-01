@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/stats-base-dists-levy-cdf",
+  "version": "0.0.0",
+  "description": "Lévy distribution cumulative distribution function (CDF).",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-levy-cdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "cdf",
+    "cumulative distribution",
+    "distribution function",
+    "location-scale",
+    "exponential family",
+    "levy",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
