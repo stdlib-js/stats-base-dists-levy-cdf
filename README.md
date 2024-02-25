@@ -65,13 +65,13 @@ where `mu` is the location parameter and `b > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@esm/index.mjs';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@v0.2.1-esm/index.mjs';
 ```
 
 #### cdf( x, mu, c )
@@ -144,7 +144,7 @@ y = mycdf( 2.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@esm/index.mjs';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-cdf@v0.2.1-esm/index.mjs';
 
 var mu;
 var c;
