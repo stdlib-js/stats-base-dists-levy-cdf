@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`2197129`](https://github.com/stdlib-js/stdlib/commit/2197129dcd1c034d99215bad69975d72fc7b3e72) - **chore:** clean-up _(by Athan Reines)_
 -   [`6f4bd30`](https://github.com/stdlib-js/stdlib/commit/6f4bd30c7d69a33501b97b25936a8101555f7837) - **feat:** add C implementation for `stats/base/dists/levy/cdf` [(#4288)](https://github.com/stdlib-js/stdlib/pull/4288) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
