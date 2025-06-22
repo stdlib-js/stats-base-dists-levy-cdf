@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`3cf6f11`](https://github.com/stdlib-js/stdlib/commit/3cf6f1197da802f472735e132e8994bda4ae364c) - **docs:** update `stats/base/dists/levy` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`f9ec3b6`](https://github.com/stdlib-js/stdlib/commit/f9ec3b6e86ad6c9feeb95cb6ed1a356af7f452b9) - **docs:** fix function names _(by Philipp Burckhardt)_
 -   [`2197129`](https://github.com/stdlib-js/stdlib/commit/2197129dcd1c034d99215bad69975d72fc7b3e72) - **chore:** clean-up _(by Athan Reines)_
 -   [`6f4bd30`](https://github.com/stdlib-js/stdlib/commit/6f4bd30c7d69a33501b97b25936a8101555f7837) - **feat:** add C implementation for `stats/base/dists/levy/cdf` [(#4288)](https://github.com/stdlib-js/stdlib/pull/4288) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
