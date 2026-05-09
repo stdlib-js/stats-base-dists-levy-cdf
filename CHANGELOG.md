@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-02)
+## Unreleased (2026-05-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`04ea19c`](https://github.com/stdlib-js/stdlib/commit/04ea19c2fada1d1570f706cf9b3a9993195a2e1c) - **docs:** correct scale parameter JSDoc type in `stats/base/dists/levy` [(#12027)](https://github.com/stdlib-js/stdlib/pull/12027) _(by Philipp Burckhardt)_
 -   [`0c1fea4`](https://github.com/stdlib-js/stdlib/commit/0c1fea42a94d1ec0d4ba8e9f29e411f0f3515041) - **bench:** update random value generation for `stats/base/dists/levy` [(#10449)](https://github.com/stdlib-js/stdlib/pull/10449) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`bdd38d9`](https://github.com/stdlib-js/stdlib/commit/bdd38d971f4c0a24d43aca632ca5098cc0b90332) - **bench:** refactor to use string interpolation in `stats/base/dists/levy` [(#10444)](https://github.com/stdlib-js/stdlib/pull/10444) _(by Vishal Gaikwad)_
 
