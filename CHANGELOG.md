@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-07-27)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,10 @@
 
 <details>
 
+-   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
 -   [`03bb27c`](https://github.com/stdlib-js/stdlib/commit/03bb27c0d63fdbea701e3de9c9fcde3fe5100999) - **fix:** use scale parameter name `c` in `base/dists/levy/cdf` [(#12488)](https://github.com/stdlib-js/stdlib/pull/12488) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`04ea19c`](https://github.com/stdlib-js/stdlib/commit/04ea19c2fada1d1570f706cf9b3a9993195a2e1c) - **docs:** correct scale parameter JSDoc type in `stats/base/dists/levy` [(#12027)](https://github.com/stdlib-js/stdlib/pull/12027) _(by Philipp Burckhardt)_
